@@ -25,5 +25,5 @@ This project demonstrates the implementation of Slowly Changing Dimension 1 (SCD
 * Load Insert: Apply new records to the main dimension table using the load_insert() function with SQLAlchemy.
 
 
-#### File link: [GitHub Pages](https://pages.github.com/).
+#### File link: [file](ETL-SCD1.ipynb).
 
